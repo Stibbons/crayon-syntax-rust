@@ -1,2 +1,0 @@
-crayon-syntax-rust
-==================
