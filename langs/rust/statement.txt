@@ -1,5 +1,6 @@
 as
 break
+continue
 do
 else
 enum
