@@ -1,1 +1,4 @@
 mut
+priv
+pub
+static
