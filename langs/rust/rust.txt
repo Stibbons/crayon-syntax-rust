@@ -1,4 +1,4 @@
-### C++ LANGUAGE ###
+### Rust LANGUAGE ###
 
 #   ELEMENT_NAME [optional-css-class] REGULAR_EXPRESSION
 
