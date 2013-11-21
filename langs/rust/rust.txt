@@ -9,7 +9,6 @@
     PREPROCESSOR        (?default)
     STRING              (?default)
 
-    MODULE:KEYWORD      \b(?alt:module.txt)\b
     STATEMENT           (?default)|\b(?alt:statement.txt)\b
     RESERVED            (?default)|\b(?alt:reserved.txt)\b
     TYPE                (?default)|\b(?alt:type.txt)\b
